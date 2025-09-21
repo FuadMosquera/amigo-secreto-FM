@@ -1,6 +1,7 @@
 # Amigo Secreto
 
-> Proyecto educativo enfocado de Alura. 
+> Proyecto educativo de Alura
+
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-blue)]()
 [![Lenguaje](https://img.shields.io/badge/javascript-ES6-yellow)]()
 
