@@ -26,14 +26,9 @@ Practicar conceptos de programación en JavaScript:
 ### Sorteo
 ### Resultados
 
-## Demo
-
-[Ver demo en GitHub Pages](https://tu-usuario.github.io/amigo-secreto/)  
-*(Reemplaza este enlace con el de tu repositorio una vez actives GitHub Pages.)*
 
 ## Cómo ejecutar
 
 1. Clonar el repositorio:
-   ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
    cd amigo-secreto
