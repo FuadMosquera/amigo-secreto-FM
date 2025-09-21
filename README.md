@@ -1,62 +1,44 @@
 # Amigo Secreto
 
-> Proyecto educativo de Alura
+Este proyecto es parte de un desafío de programación orientado a practicar lógica con JavaScript.  
+El HTML y CSS ya están preparados, y el objetivo principal es implementar la lógica en `app.js`.
 
-[![Estado](https://img.shields.io/badge/estado-en%20desarrollo-blue)]()
-[![Lenguaje](https://img.shields.io/badge/javascript-ES6-yellow)]()
+## Objetivo
 
----
-
-## Objetivo del proyecto
-
-El objetivo principal de este desafío es desarrollar habilidades en lógica de programación, principalmente:
-
-- Manipular **arrays** para almacenar participantes.
-- Crear y reutilizar **funciones**.
-- Aplicar **condicionales** para validar entradas y resultados.
-- Gestionar **variables** para el estado del sorteo.
-
----
+Practicar conceptos de programación en JavaScript:
+- Manejo de arrays
+- Uso de funciones
+- Condicionales
+- Variables
 
 ## Funcionalidades
 
-- **Agregar nombres** a una lista de participantes.
-- Validar entradas:
-  - No se permiten duplicados.
-  - No se permiten campos vacíos.
-- **Eliminar participantes** de la lista.
-- **Sortear el Amigo Secreto**:
-  - Cada participante recibe exactamente un amigo secreto.
-  - Nadie puede asignarse a sí mismo.
-- **Mostrar resultados** de manera clara en pantalla.
-- Guardar la lista en `localStorage` para persistencia (opcional).
+- Agregar nombres de participantes
+- Validar que no se repitan nombres y que no se ingresen vacíos
+- Eliminar participantes de la lista
+- Realizar el sorteo del amigo secreto de forma aleatoria
+- Mostrar el resultado en pantalla
+- Guardar la lista en localStorage (opcional)
 
----
+## Vista previa
 
-## Capturas de pantalla
-
-### 1) Agregar nombres
+### Agregar nombres
 ![Agregar nombres](docs/images/add-names.png)
 
-### 2) Realizar el sorteo
+### Sorteo
 ![Sorteo](docs/images/draw.png)
 
-### 3) Resultados
+### Resultados
 ![Resultados](docs/images/results.png)
 
----
+## Demo
 
-## Demo en acción
+[Ver demo en GitHub Pages](https://tu-usuario.github.io/amigo-secreto/)  
+*(Reemplaza este enlace con el de tu repositorio una vez actives GitHub Pages.)*
 
-![Demo](docs/videos/demo.gif)
+## Cómo ejecutar
 
-*(Puedes grabar tu pantalla mientras agregas nombres y ejecutas el sorteo, exportar como GIF o MP4 y añadirlo aquí.)*
-
----
-
-## Cómo ejecutar el proyecto
-
-1. Clona el repositorio:
+1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/amigo-secreto.git
+   git clone https://github.com/tu-usuario/amigo-secreto.git
    cd amigo-secreto
