@@ -20,16 +20,11 @@ Practicar conceptos de programación en JavaScript:
 - Mostrar el resultado en pantalla
 - Guardar la lista en localStorage (opcional)
 
-## Vista previa
+## Paso a paso
 
 ### Agregar nombres
-![Agregar nombres](docs/images/add-names.png)
-
 ### Sorteo
-![Sorteo](docs/images/draw.png)
-
 ### Resultados
-![Resultados](docs/images/results.png)
 
 ## Demo
 
