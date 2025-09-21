@@ -1,16 +1,14 @@
-# Amigo Secreto 🎁
+# Amigo Secreto
 
-> Proyecto educativo enfocado en **lógica de programación con JavaScript**.  
-> El HTML y CSS ya están proporcionados, por lo que el reto se centra exclusivamente en construir la lógica con funciones, arrays, condicionales y variables.
-
+> Proyecto educativo enfocado de Alura. 
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-blue)]()
 [![Lenguaje](https://img.shields.io/badge/javascript-ES6-yellow)]()
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
-El objetivo principal de este desafío es **desarrollar habilidades en lógica de programación**, dejando de lado la parte visual. Con este proyecto aprenderás a:
+El objetivo principal de este desafío es desarrollar habilidades en lógica de programación, principalmente:
 
 - Manipular **arrays** para almacenar participantes.
 - Crear y reutilizar **funciones**.
@@ -19,7 +17,7 @@ El objetivo principal de este desafío es **desarrollar habilidades en lógica d
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Agregar nombres** a una lista de participantes.
 - Validar entradas:
@@ -34,7 +32,7 @@ El objetivo principal de este desafío es **desarrollar habilidades en lógica d
 
 ---
 
-## 🖼️ Capturas de pantalla
+## Capturas de pantalla
 
 ### 1) Agregar nombres
 ![Agregar nombres](docs/images/add-names.png)
@@ -47,7 +45,7 @@ El objetivo principal de este desafío es **desarrollar habilidades en lógica d
 
 ---
 
-## 🎬 Demo en acción
+## Demo en acción
 
 ![Demo](docs/videos/demo.gif)
 
@@ -55,7 +53,7 @@ El objetivo principal de este desafío es **desarrollar habilidades en lógica d
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clona el repositorio:
    ```bash
